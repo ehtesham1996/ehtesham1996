@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ehtesham and I'm a Backend Cloud Native Developer</h2>
+<h2 align="left">Hi 👋! My name is Ehtesham and I'm a Backend Developer</h2>
 
 ###
 
